@@ -1,4 +1,5 @@
 # Cyclistic Bike-Share Analysis
+![dashboard](visuals/dashboard_1.png)
 
 ## Project Overview
 
