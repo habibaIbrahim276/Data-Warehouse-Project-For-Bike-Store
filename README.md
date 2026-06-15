@@ -1,6 +1,8 @@
 # Cyclistic Bike-Share Analysis
-![dashboard](visuals/dashboard_1.png)
-
+<p float="left">
+  <img src="visuals/dashboard_1.png" width="300"/>
+  <img src="visuals/dashboard_2.png" width="300"/>
+</p>
 ## Project Overview
 
 This project analyzes the Cyclistic Bike-Share dataset with the objective of identifying behavioral differences between casual riders and annual members. The ultimate business goal is to provide data-driven insights that can help convert casual riders into membership subscribers.
