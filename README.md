@@ -226,8 +226,6 @@ Cyclistic-Bike-Share-Analysis/
 │   └── dashboard_2.png
 │   └── dashboard_3.png
 ├── README.md
-│
-└── requirements.txt
 ```
 
 ---
