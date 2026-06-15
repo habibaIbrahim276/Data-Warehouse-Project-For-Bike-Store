@@ -1,8 +1,8 @@
 # Cyclistic Bike-Share Analysis
 <p float="left">
-  <img src="visuals/dashboard_1.png" width="300"/>
-  <img src="visuals/dashboard_2.png" width="300"/>
-  <img src="visuals/dasboard_3.png" width="300"/>
+  <img src="visuals/dashboard_1.png" width="280"/>
+  <img src="visuals/dashboard_2.png" width="280"/>
+  <img src="visuals/dasboard_3.png" width="280"/>
 </p>
 
 ## Project Overview
